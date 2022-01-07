@@ -1,2 +1,3 @@
-# Curso Practico Html y Css
-En este proyecto se pretende hacer una replica de la pagina principal de google con HTML y CSS
+# Clone of the main page of google with Html and Css
+In this project it is intended to make a replica of the main google page with HTML and CSS
+
